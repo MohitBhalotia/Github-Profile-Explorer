@@ -2,6 +2,8 @@
 
 A modern web application that allows users to search and explore GitHub profiles with a beautiful UI. View user information, repositories, and activity calendars in one place.
 
+See Demo : [Click Here](https://github-profile-explorer-omega.vercel.app/)
+
 ![GitHub Profile Explorer](public/Logo.png)
 
 ## Features
