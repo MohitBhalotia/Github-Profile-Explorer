@@ -4,7 +4,9 @@ A modern web application that allows users to search and explore GitHub profiles
 
 See Demo : [Click Here](https://github-profile-explorer-omega.vercel.app/)
 
-![GitHub Profile Explorer](public/Logo.png)
+Watch Video:
+
+[![Watch the demo video](https://img.youtube.com/vi/B33CuKpnK8o/0.jpg)](https://youtu.be/B33CuKpnK8o)
 
 ## Features
 
