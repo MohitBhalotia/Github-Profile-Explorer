@@ -83,7 +83,7 @@ const Home = () => {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 ">
       <header className="py-6 text-center ">
         <div className="flex flex-col items-center mt-4">
-          <div className="bg-white rounded-full shadow-lg">
+          <div className="bg-white rounded-full shadow-lg overflow-hidden p-2">
             <img src="/Logo.png" width={120}/>
           </div>
           <p className="text-gray-400 mt-2">
